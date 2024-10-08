@@ -52,6 +52,7 @@ plugins:
   - search
   - obsidian-support
   - roamlinks
+  - ezlinks
   - blog
   - rss:
       match_path: blog/posts/.* 
