@@ -50,6 +50,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - obsidian-support
   - roamlinks
   - blog
   - rss:
